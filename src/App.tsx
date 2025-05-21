@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import  { useState } from 'react';
 // مطمئن شو پکیج phone-mockup-react در پروژه Vite نصب شده است
 import { PhoneMockup } from 'phone-mockup-react';
 // مسیردهی به استایل‌های پکیج اصلی (مطمئن شو این فایل در node_modules/phone-mockup-react/dist وجود دارد)
