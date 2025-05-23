@@ -87,8 +87,6 @@ function App() {
             <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4" />
           </video>
         </PhoneMockup>
-        {/* اگر این div تستی نیاز نیست، حذفش کن */}
-        <div className="phone-mockup" style={{ border: '2px solid red' }}>Test Phone Mockup</div>
       </div>
     </div>
   );
